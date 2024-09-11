@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ethelred",
+        "last_name": "Stollman",
+        "email": "estollman0@woothemes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Rupert",
+        "last_name": "Ungerer",
+        "email": "rungerer1@accuweather.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Archy",
+        "last_name": "Knock",
+        "email": "aknock2@feedburner.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Pierce",
+        "last_name": "Guillot",
+        "email": "pguillot3@discovery.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Cchaddie",
+        "last_name": "Cutten",
+        "email": "ccutten4@nba.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Gleda",
+        "last_name": "Dickin",
+        "email": "gdickin5@wordpress.org",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Granny",
+        "last_name": "Minall",
+        "email": "gminall6@ycombinator.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Tami",
+        "last_name": "Polkinhorn",
+        "email": "tpolkinhorn7@dailymail.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Natividad",
+        "last_name": "Caddies",
+        "email": "ncaddies8@wired.com",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 10,
+        "first_name": "Killie",
+        "last_name": "Ganford",
+        "email": "kganford9@tumblr.com",
+        "gender": "Male"
+    },
+    {
+        "first_name": "Killie",
+        "last_name": "Ganford",
+        "email": "kganford9@tumblr.com",
+        "gender": "Male",
+        "id": 11
+    }
+]
